@@ -1,3 +1,4 @@
+//https://github.com/netology-code/jd-homeworks/blob/master/files/task2/README.md
 package JavaCore.HomeWork.StreamsFilesSerializable1;
 
 import java.io.*;
