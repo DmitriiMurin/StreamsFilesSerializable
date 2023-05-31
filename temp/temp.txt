@@ -1,0 +1,12 @@
+The directory C:\learning\IdeaProjects\HomeWorks\StreamsFilesSerializable\Games\src was not created
+The directory C:\learning\IdeaProjects\HomeWorks\StreamsFilesSerializable\Games\res was not created
+The directory C:\learning\IdeaProjects\HomeWorks\StreamsFilesSerializable\Games\res\drawables was not created
+The directory C:\learning\IdeaProjects\HomeWorks\StreamsFilesSerializable\Games\res\vectors was not created
+The directory C:\learning\IdeaProjects\HomeWorks\StreamsFilesSerializable\Games\res\icons was not created
+The directory C:\learning\IdeaProjects\HomeWorks\StreamsFilesSerializable\Games\savegames was not created
+The directory C:\learning\IdeaProjects\HomeWorks\StreamsFilesSerializable\Games\temp was not created
+The directory C:\learning\IdeaProjects\HomeWorks\StreamsFilesSerializable\Games\src\test was not created
+The directory C:\learning\IdeaProjects\HomeWorks\StreamsFilesSerializable\Games\src\main was not created
+The file C:\learning\IdeaProjects\HomeWorks\StreamsFilesSerializable\Games\src\main\Main.java was not created
+The file C:\learning\IdeaProjects\HomeWorks\StreamsFilesSerializable\Games\src\main\Utils.java was not created
+The file C:\learning\IdeaProjects\HomeWorks\StreamsFilesSerializable\Games\temp\temp.txt was not created
